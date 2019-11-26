@@ -36,10 +36,10 @@ depth.
 To run the file from the command line you need to use java -jar connect_4_coordinator.jar
 along with the arguments to pass to the program. The arguments are:
 
-• (required) e0 <path> where <path> is the directory containing the file called Interface
+• (required) e0 (path) where (path) is the directory containing the file called Interface
 which includes the main method of your engine.
   
-• (optional) e1 <path> where <path> is the directory containing a file called Interface which
+• (optional) e1 (path) where (path) is the directory containing a file called Interface which
 includes the main method of another engine. If this is not used the first engine will be used
 again, so it is easy to set up a self game for the engine.
   
