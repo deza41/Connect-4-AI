@@ -1,5 +1,7 @@
 # Connect-4-AI
 This was a project to make a simple MinMax AI to play a game of connect for against you or against another AI.
+![image](https://user-images.githubusercontent.com/15008435/124422864-5d541300-dda7-11eb-8ec2-751c131d0641.png)
+
 
 # Coordinator Commands
 
